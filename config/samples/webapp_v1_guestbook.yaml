@@ -1,0 +1,8 @@
+apiVersion: webapp.my.domain/v1
+kind: Guestbook
+metadata:
+  name: guestbook-sample
+spec:
+  # Add fields here
+  size: 10
+  configMapName: a
