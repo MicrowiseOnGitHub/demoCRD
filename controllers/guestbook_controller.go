@@ -43,6 +43,7 @@ func (r *GuestbookReconciler) Reconcile(req ctrl.Request) (ctrl.Result, error) {
 
 	// your logic here
 
+
 	return ctrl.Result{}, nil
 }
 
